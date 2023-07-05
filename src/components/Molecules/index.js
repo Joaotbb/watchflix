@@ -1,0 +1,12 @@
+export { default as Form } from './Form/Form'
+export { default as HeroHome } from './HeroHome/HeroHome'
+export { default as MovieCard } from './MovieCard/MovieCard'
+export { default as MovieModal } from './MovieModal/MovieModal'
+export { default as Popular } from './Popular/Popular'
+export { default as TopCollections } from './TopCollections/TopCollections'
+export { default as TvSeriesCard } from './TvSeriesCard/TvSeriesCard'
+export { default as Upcomings } from './Upcomings/Upcomings'
+export { default as VideoModal } from './VideoModal/VideoModal'
+export { default as SerieModal } from './SerieModal/SerieModal'
+export { default as Pagination } from './Pagination/Pagination'
+

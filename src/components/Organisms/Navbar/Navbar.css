@@ -1,0 +1,3 @@
+.nav-list {
+  @apply py-2 rounded-md text-sm font-medium uppercase text-primary-200 hover:text-secondary-600 hover:underline;
+}
