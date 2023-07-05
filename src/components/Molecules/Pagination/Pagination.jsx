@@ -64,3 +64,4 @@ const Pagination = ({ seriesPageNumber, setSeriesPageNumber }) => {
 }
 
 export default Pagination
+ 
